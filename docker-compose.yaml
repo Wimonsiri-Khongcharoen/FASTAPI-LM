@@ -1,6 +1,6 @@
 services:
-  api-siwapan:
+  api-wimonsiri:
     build: .
     ports:
-      - "8001:8000"
+      - "8812:8000"
     restart: always
